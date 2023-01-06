@@ -1,4 +1,3 @@
-.
 #babel kullanımı
 
 nmp init
